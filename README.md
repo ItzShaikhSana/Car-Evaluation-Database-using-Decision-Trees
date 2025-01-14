@@ -5,7 +5,7 @@ Dataset Information
 
 The dataset contains 1728 instances and 6 attributes with no missing values. The columns in the dataset are as follows:
 
-Feature Description
+**Feature Description**
 
 buying - Buying price of the car (categorical: v-high, high, med, low).
 
@@ -29,43 +29,45 @@ good: 3.993%
 
 v-good (very good): 3.762% 
 
-Objective
+**Objective**
 
 The primary objective is to develop a Decision Tree model to classify student performance into one of the four classes (unacc,acc,good,v-good) and identify the key factors influencing these classifications.
 
-Project Workflow
+**Project Workflow**
 
-Data Preprocessing:
+**Data Preprocessing:**
 
 Encoded categorical variables.
 
 Split data into training and testing sets.
 
-Model Selection:
+**Model Selection:**
 
 Implemented Decision Trees,Logistic Regression and some models.
 
 Compared performance metrics such as accuracy, precision, recall, and F1-score.
 
-Results:
+**Results:**
 
 Decision Trees achieved the best accuracy for predicting car acceptability compared to other models.
 
-Visualization:
+**Visualization:**
 
 Confusion matrices and decision tree diagrams were generated to interpret the model performance.
 
-Key Insights
+---------------------------------------------------------------------------------------------------------
+
+**Key Insights**
 
 Decision Trees performed better due to their ability to capture non-linear relationships and hierarchical decision-making processes.
 
-Technologies Used
+**Technologies Used**
 
-Programming Language:
+**Programming Language:**
 
 Python
 
-Libraries:
+**Libraries:**
 
 pandas for data manipulation.
 
@@ -73,13 +75,13 @@ numpy for numerical computations.
 
 matplotlib and seaborn for data visualization.
 
-Future Work
+**Future Work**
 
 Explore advanced machine learning models such as Random Forest, Gradient Boosting, or Neural Networks to improve accuracy.
 
 Identify and rank the most influential features affecting car acceptability.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
