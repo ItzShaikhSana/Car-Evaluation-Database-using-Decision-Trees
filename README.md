@@ -20,7 +20,7 @@ lug_boot - Size of luggage boot (categorical: small, med, big).
 
 safety - Estimated safety rating (categorical:low, med, high).
 
-Target Classes:
+**Target Classes:**
 
 unacc (unacceptable): 70.023% 
 
@@ -32,7 +32,7 @@ v-good (very good): 3.762%
 
 **Objective**
 
-The primary objective is to develop a Decision Tree model to classify student performance into one of the four classes (unacc,acc,good,v-good) and identify the key factors influencing these classifications.
+The primary objective is to develop a Decision Tree model to classifycar acceptability into one of the four classes (unacc,acc,good,v-good) and identify the key factors influencing these classifications.
 
 **Project Workflow**
 
