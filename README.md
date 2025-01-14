@@ -1,7 +1,8 @@
 # Car-Evaluation-Database-using-Decision-Trees
 This project utilizes the Car Evaluation Database, a dataset designed to evaluate the acceptability of cars based on various features.
 The project focuses on implementing and comparing machine learning models, specifically Decision Trees and Logistic Regression, to predict car acceptability.
-Dataset Information
+
+**Dataset Information**
 
 The dataset contains 1728 instances and 6 attributes with no missing values. The columns in the dataset are as follows:
 
